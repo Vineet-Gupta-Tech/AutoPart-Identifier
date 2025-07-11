@@ -9,8 +9,8 @@ A production-ready pipeline that **detects four mechanical parts—bolt, nut, wa
 * ✅ one-liner inference script with saved weights  
 * ✅ pre-split dataset & pretrained weights, so you can play immediately
 
-* NOTE:-MODEL IS ALSO PRE-TRAINED
+* NOTE:-MODEL IS ALREADY TRAINED
 
 # Download Testing Dataset
 
-Google Drive Link:-
+Google Drive Link:-[https://drive.google.com/drive/folders/11CFAWWSP3umhEc18r-KbkX_PkZEdEsyh?usp=drive_link]
