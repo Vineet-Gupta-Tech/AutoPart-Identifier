@@ -9,18 +9,6 @@ A production-ready pipeline that **detects four mechanical parts—bolt, nut, wa
 * ✅ one-liner inference script with saved weights  
 * ✅ pre-split dataset & pretrained weights, so you can play immediately
 
----
+# Download Testing Dataset
 
-## 🌳 Project Structure
-
-```text
-PROJECT DIRECTORY/
-├─ datasets/                        # raw + split images (already included 🎉)
-│  ├─ mechanical_parts/             # original Kaggle images
-│  └─ mechanical_parts_split/       # train/val sub-folders
-├─ effnet_weights_final.h5          # 6 MB of pretrained goodness
-├─ import_extract_dataset.py        # optional re-download from Kaggle
-├─ split.py                         # 80-20 stratified split
-├─ train.py                         # TL training → exports best weights
-├─ evaluate.py                      # full metrics & confusion matrix
-└─ predict.py                       # single-image inference demo
+Google Drive Link:-
