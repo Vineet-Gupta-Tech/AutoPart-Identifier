@@ -2,7 +2,7 @@
 
 A production-ready pipeline that **detects four mechanical parts—bolt, nut, washer and locating-pin—straight from RGB images**.  
 
-* ✅ automated Kaggle download / extraction  
+* ✅ automated Kaggle download / extraction using Kaggle API
 * ✅ clean train/val folder split  
 * ✅ transfer-learning training script (EfficientNet-B0)  
 * ✅ evaluation + pretty confusion-matrix  
